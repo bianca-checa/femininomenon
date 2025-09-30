@@ -1,0 +1,117 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(255, 255, 172);
+}
+header{
+text-align: center;
+font-size: medium;
+text-decoration: none;
+color: black;
+background-color: rgb(255, 255, 172);
+justify-content: space-between;
+display: inline-block;
+}
+main {
+    background-color: rgb(255, 255, 172);
+}
+.titulo {
+background-image: url(header.jpg.jpg); 
+align-content: center;
+text-align: center;
+font-size: 3.0rem;
+}
+h2{
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+main{
+    flex: 1;
+}
+h3 .sabrina { 
+font-size: 2.0rem;
+text-align: center;
+}
+
+h3 .taylor {
+    font-size: 2.0rem;
+    text-align: center;
+}
+h3 .katseye { 
+font-size: 2.0rem;
+text-align: center;
+}
+footer{
+    background-color: rgb(247, 191, 210);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+a {
+ text-decoration: none;
+}
+footer .redes {
+       justify-content: center;
+    gap: 20px;
+    padding: 15px 0;
+}
+
+
+footer{
+    background-color: rgb(247, 191, 210);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+a {
+ text-decoration: none;
+}
+footer .redes {
+       justify-content: center;
+    gap: 20px;
+    padding: 15px 0;
+}
+footer .redes a {
+color: black;
+
+}
+footer .legales {
+    color: black;
+
+}
+footer .Creditos {
+    color: black;
+}
+section {
+    background-color: rgb(255, 255, 172);
+    text-align: center;
+}
+.nosotras {
+color: black;
+    text-align: center;
+    background-image: url(header.jpg.jpg);
+    align-content: center;
+    font-size: 2.0rem;
+}
+.titulo contactanos {
+    text-align: center;
+    background-image: url(header.jpg.jpg);
+    font-size: 2.0rem
+}
+.section {
+    color: black;
+    text-align: center;
+    background-color: rgb(255, 255, 172);
+}
+.i {
+    text-align: center;
+    color: black;
+}
+.reseñas {
+    text-align: center;
+    font-size: 2.5rem;
+}
